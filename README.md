@@ -3,14 +3,11 @@
 
 This is a sample app to quickly get you started with Novu. It'll help you send your first notification with Novu in no time. Just execute the following steps:
 
-
-
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file in backend direcoty
+To run this project, you will need to add the following environment variables to your .env file in backend directory
 
 `NOVU_API_KEY`
-
 
 ## Run Locally
 
@@ -67,7 +64,6 @@ Give it a read in case you're unsure about something
 
 If you're facing any difficulty, send me a message [here](https://discord.gg/novu)
 
-
 ## Contributing
 
 Contributions are always welcome!
@@ -76,8 +72,6 @@ If you want to improve this project in any way, don't hesitate to create issues 
 
 I'd love to see what you bring to this!
 
-
 ## Authors
 
 - [@sumitsaurabh927](https://twitter.com/sumitsaurabh927)
-
