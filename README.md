@@ -58,6 +58,7 @@ npm start
 Your project should now be running on localhost.
 
 ## Next steps
+
 The corresponding guide to this project has been published in the [Novu docs](https://docs.novu.co/overview/quickstart/get-started-with-vanilla-js/).
 
 Give it a read in case you're unsure about something
