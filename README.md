@@ -20,7 +20,7 @@ Clone the project
 Go to the backend directory
 
 ```bash
-  cd vanillajs-quickstart/front-end
+  cd vanillajs-quickstart/back-end
 ```
 
 Install dependencies
